@@ -1,0 +1,76 @@
+{
+  "musculoskeletal": {
+    "label": "Musculoskeletal condition (muscle / tendon / joint related)",
+    "typical_symptoms": ["pain", "stiffness", "muscle cramps", "difficulty walking"],
+    "aggravating_factors": ["movement", "walking", "exercise"],
+    "evidence_notes": [
+      "Pain that increases with activity/movement and improves with rest is commonly associated with musculoskeletal strain.",
+      "Localized tenderness over a single muscle group is a typical musculoskeletal pattern.",
+      "Gradual onset without numbness/tingling lowers likelihood of nerve involvement."
+    ],
+    "guidance": [
+      "Relative rest of the affected area, avoiding movements that sharply worsen pain",
+      "Gentle stretching and gradual return to activity as tolerated",
+      "Cold/warm compress as per comfort",
+      "Consult a physiotherapist or orthopedic specialist if pain persists beyond 2-3 weeks"
+    ]
+  },
+  "peripheral_nerve": {
+    "label": "Peripheral nerve involvement",
+    "typical_symptoms": ["numbness", "tingling", "weakness", "burning sensation"],
+    "aggravating_factors": ["specific posture", "nerve compression positions"],
+    "evidence_notes": [
+      "Numbness or tingling following a specific nerve distribution pattern suggests possible nerve involvement.",
+      "Weakness accompanied by sensory changes (numbness/tingling) raises suspicion for nerve-related causes rather than pure muscle strain.",
+      "Symptoms worsened by specific postures (e.g., sitting, bending) can indicate nerve compression."
+    ],
+    "guidance": [
+      "Avoid prolonged pressure or positions that reproduce symptoms",
+      "Track whether numbness/tingling is spreading or constant",
+      "Neurological evaluation (neurologist) is recommended for confirmation and nerve conduction studies if needed"
+    ]
+  },
+  "neuromuscular": {
+    "label": "Neuromuscular condition (nerve-muscle junction / motor pathway)",
+    "typical_symptoms": ["progressive weakness", "muscle wasting", "fatigue", "difficulty walking", "balance problem"],
+    "aggravating_factors": ["repeated use", "fatigue over the day"],
+    "evidence_notes": [
+      "Progressive (worsening over weeks) weakness rather than fluctuating pain is a pattern seen in neuromuscular conditions.",
+      "Weakness that worsens with repeated activity/fatigue through the day is a notable pattern warranting evaluation.",
+      "Balance or coordination difficulty alongside weakness increases relevance of neuromuscular evaluation."
+    ],
+    "guidance": [
+      "Do not ignore progressive weakness - clinical evaluation is important",
+      "Keep a symptom diary noting time of day and activity level",
+      "Neurologist evaluation with possible EMG/nerve conduction studies is the appropriate next step"
+    ]
+  },
+  "vascular": {
+    "label": "Vascular contribution (blood flow related)",
+    "typical_symptoms": ["cramping with walking", "pain relieved by rest", "coldness", "color change"],
+    "aggravating_factors": ["walking distance", "exertion"],
+    "evidence_notes": [
+      "Cramping pain that appears after a consistent walking distance and resolves with rest can indicate a vascular pattern (claudication).",
+      "Skin color or temperature changes in the affected limb add relevance to vascular causes."
+    ],
+    "guidance": [
+      "Note the exact walking distance that triggers symptoms and how long rest takes to relieve it",
+      "Avoid smoking/tobacco if applicable, as it affects circulation",
+      "Vascular or general physician evaluation is recommended"
+    ]
+  },
+  "emergency": {
+    "label": "Potential emergency / urgent presentation",
+    "typical_symptoms": ["sudden severe weakness", "loss of bladder or bowel control", "rapidly worsening symptoms", "major trauma", "facial drooping", "slurred speech", "loss of consciousness"],
+    "evidence_notes": [
+      "Sudden onset of severe weakness or numbness, especially one-sided, is a recognized red-flag pattern.",
+      "Loss of bladder or bowel control alongside limb weakness is a recognized red-flag combination.",
+      "Rapid worsening over hours (rather than days/weeks) is treated as a red flag in clinical screening."
+    ],
+    "guidance": [
+      "Seek emergency medical care immediately",
+      "Do not wait for routine appointment scheduling",
+      "Contact emergency services or go to the nearest emergency department"
+    ]
+  }
+}
